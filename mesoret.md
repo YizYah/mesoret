@@ -1,4 +1,8 @@
-<span dir="rtl" align="right">
+<style>
+  .rtl { direction:rtl;}
+</style>
+
+<div dir="rtl" align="right">
 
 # מסורת
 
@@ -16,4 +20,4 @@
 6. נעילה
 7. אקדמות
 
-</span>
+</div>
