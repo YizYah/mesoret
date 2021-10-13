@@ -1,0 +1,24 @@
+{
+  "name": "mesoret",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "deploy": "mkdocs gh-deploy",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YizYah/mesoret.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YizYah/mesoret/issues"
+  },
+  "homepage": "https://github.com/YizYah/mesoret#readme"
+}
