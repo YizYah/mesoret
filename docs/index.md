@@ -1,14 +1,3 @@
-<div dir="rtl" align="right">ככככ</div>
-<!-- my-page.html --> 
-  <script src="https://rawcdn.githack.com/oscarmorrison/md-page/master/md-page.js"></script><noscript>
-
-# Header
-Welcome to my simplest site
-
-- An
-- awesome
-- list
-
 # מסורת
 
 מדריך זה מיועד גנביים ושוליחי ציבור. יש לו רשימות עבור מה לדאוג לגבי סוגים שונים של מניינים.
@@ -24,5 +13,3 @@ Welcome to my simplest site
 5. יומים נוראים
 6. נעילה
 7. אקדמות
-
-</div>

@@ -1,0 +1,5 @@
+site_name: Mesoret
+theme:
+  name: material
+  direction: rtl
+  language: he
